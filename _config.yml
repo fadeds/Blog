@@ -11,7 +11,7 @@ author: Fadeds
 language: zh-Hans
 timezone: UTC
 favicon: /favicon.ico
-
+avatar: https://qcloudtest-1255878417.cos.ap-guangzhou.myqcloud.com/logo.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -76,10 +76,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: TKL
-# theme: brewski
-# theme: strata
-# theme: hexo-theme-skapp
-theme: random
+theme: next
+# theme: yelee
+# theme: random
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
